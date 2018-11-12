@@ -1,3 +1,4 @@
-# mile-framework
 
-readme
+大量采用了Google的Guava框架
+大量使用了Java8的特性
+使用Java8的文件操作类
